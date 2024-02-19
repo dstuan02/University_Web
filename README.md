@@ -1,2 +1,2 @@
 # University_Web
-A project made by me and a partner.
+A project made by me!
